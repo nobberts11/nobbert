@@ -13,6 +13,7 @@ All things front- and backend - colliding with .
 
 Languages and Tools:
 [docs.python.org](https://docs.python.org/3/tutorial/index.html)
+[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://www.python.org)
 
 cplusplus git go html5 java javascript nodejs python sqlite typescript  
 
