@@ -1,14 +1,14 @@
 # NobbertS11
 ## Hi 👋, I'm Norbert S.
-All things front- and backend.
+All things: More backend than frontend
 
     🌱 I’m learning to be a AI manager (KI Manager)
 
-    💬 Ask me about ** Java, Typescript, and a little bit Python - still learning**
+    💬 Ask me about ** Java, Typescript, C++ and a little bit Python - still learning**
 
     🤷🏻‍♂️ Trying to hide from the outside wold, with varying success
 
-    📫 How to reach me: nobbertS11@gmail.com
+    📫 How to reach me (find out what's to remove): nobbertS11@gmail.com
 
 <br>
 Languages:
