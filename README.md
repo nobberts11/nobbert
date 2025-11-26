@@ -2,7 +2,7 @@
 ## Hi 👋, I'm Norbert S.
 All things: More backend than frontend
 
-    🌱 I’m learning to be an AI manager (KI Manager). Examination in december 2025 (incl. Scrum-Master & Scrum-Ovner)
+    🌱 I’m learning to be an AI Manager (KI Manager). Examination in december 2025 (incl. Scrum-Master & Scrum-Owner)
 
     💬 Ask me about languages like ** Java, Typescript, C++ and a little bit Python - still learning**
 
